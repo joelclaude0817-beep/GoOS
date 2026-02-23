@@ -14,4 +14,5 @@ cd GoOS
 ## Running The Operating System
 ```bash
 gcc goOS.c -o GoOS
+./GoOS
 ```
